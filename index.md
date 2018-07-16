@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-[Ajay Dhillon](https://ajay.d1116@gmail.com)
+ Contact me at: ajay.d1116@gmail.com
